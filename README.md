@@ -22,7 +22,7 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 - ⚡ Fun fact **I ❤️🐶s and new fashion Trends! **
 
 
-<img align="right" height = "200px" width = "200px" alt="GIF" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
+<img align="left" height = "200px" width = "200px" alt="GIF" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
 </p>
 
 <br>
