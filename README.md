@@ -7,7 +7,7 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ami1708" alt="ami1708" /> </p>
-<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align="right" height = "200px" width = "200px" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 
 
