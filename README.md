@@ -18,7 +18,7 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 
 - 🌱 I’m currently learning **Backend development**
 
-- 📫 How to reach me **Linked link below**
+- 📫 How to reach me **Please refer to the links given below**
 
 - ⚡ Fun fact **I ❤️🐶s and new fashion Trends! **
 
