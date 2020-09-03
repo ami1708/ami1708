@@ -1,5 +1,5 @@
 <h1 align="center">Hey Folks! 👋, I'm Amisha Negi</h1>
-<img src = "https://drive.google.com/file/d/1k4LQoIJYvrxUKrbY0mjLHRRot00wxUFd/view?usp=sharing">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/AaGmx5b" data-context="false" ><a href="//imgur.com/a/AaGmx5b"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <h2 align="center">I'm a full stack developer and a content writer.</h2>
 <br>
 ✍  Apart from technology , I also love writing
