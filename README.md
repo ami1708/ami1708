@@ -44,6 +44,6 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 <a href="https://www.linkedin.com/in/amisha-negi-2bb972199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/amisha-negi-2bb972199/" height="20" width="20" /></a>
 <a href="https://www.instagram.com/__amisha._negi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amisha_negi" height="20" width="20" /></a>
   <a href="https://behance.net/amisha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="amisha_negi" height="20" width="20" /></a>
-<a href="https://www.facebook.com/amisha.negi.5220/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/facebook_1384005?term=fb%20logo&page=1&position=2" alt="amisha_negi" height="20" width="20" /></a>
+<a href="https://www.facebook.com/amisha.negi.5220/" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="amisha_negi" height="20" width="20" /></a>
 </p>
 
