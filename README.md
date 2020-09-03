@@ -1,5 +1,5 @@
 <h1 align="center">Hey Folks! 👋, I'm Amisha Negi</h1>
-<a href="https://ibb.co/rdzJX24"><img src="https://i.ibb.co/rdzJX24/Whats-App-Image-2020-09-04-at-00-18-04.jpg" alt="Whats-App-Image-2020-09-04-at-00-18-04" width = "35% height = "35%" border="0"></a>
+<a href='https://postimg.cc/cv9Cfhf4' target='_blank'><img src='https://i.postimg.cc/7LDz8Q67/Whats-App-Image-2020-09-04-at-00-18-04.jpg' border='0' alt='Whats-App-Image-2020-09-04-at-00-18-04'/></a>
 <h2 align="center">I'm a full stack developer and a content writer.</h2>
 <br>
 ✍  Apart from technology , I also love writing
