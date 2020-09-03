@@ -1,2 +1,2 @@
 # AMISHANEGI
-hey connect here!!
+Hey folks 👋, I'm Amisha Negi
