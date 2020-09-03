@@ -28,7 +28,7 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 <br>
 <br>
 <p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"  width="40" height="40"/>
- <img src= "https://www.flaticon.com/free-icon/python_919852?term=python&page=1&position=2" alt="python"  width="40" height="40"/>
+ <img src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python"  width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40"/>
  <img src = "https://www.flaticon.com/free-icon/nodejs_919825" alt="nodejs"  width="40" height="40"/>
   
