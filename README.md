@@ -1,6 +1,7 @@
 <h1 align="center">Hey Folks! 👋, I'm Amisha Negi</h1>
-<a href='https://postimg.cc/cv9Cfhf4' target='_blank'><img  alt = "desc" src='https://i.postimg.cc/7LDz8Q67/Whats-App-Image-2020-09-04-at-00-18-04.jpg' border='0' alt='Whats-App-Image-2020-09-04-at-00-18-04'/ align="center" height = "35%" width = "30%"></a>
 <h2 align="center">I'm a full stack developer and a content writer.</h2>
+<a href='https://postimg.cc/cv9Cfhf4' target='_blank'><img  alt = "desc" src='https://i.postimg.cc/7LDz8Q67/Whats-App-Image-2020-09-04-at-00-18-04.jpg' border='0' alt='Whats-App-Image-2020-09-04-at-00-18-04'/ text-align="center" height = "35%" width = "30%"></a>
+
 <br>
 ✍  Apart from technology , I also love writing
 You can find my articles on my website at on (https://medium.com/@amisha.negi)
