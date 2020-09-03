@@ -14,13 +14,13 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 
 <p align="left">
 
-- 🔭 I’m currently working on **Something cool**
+- 🔭 I’m currently working on : **Something cool**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning :**Backend development**
 
-- 📫 How to reach me **Please refer to the links given below**
+- 📫 How to reach me :**Please refer to the links given below**
 
-- ⚡ Fun fact I ❤️🐶s and new fashion Trends!
+- ⚡ Fun fact: I ❤️🐶s and new fashion Trends!
 
 
 <img align="left" height = "200px" width = "200px" alt="GIF" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
