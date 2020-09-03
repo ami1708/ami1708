@@ -1,5 +1,5 @@
 <h1 align="center">Hey Folks! 👋, I'm Amisha Negi</h1>
-<a href="https://ibb.co/4YjC1mQ"><img src="https://i.ibb.co/4YjC1mQ/Whats-App-Image-2020-09-03-at-21-01-23.jpg" alt="Whats-App-Image-2020-09-03-at-21-01-23" border="0" height = "100%" width = "100%"></a>
+<a href="https://ibb.co/4YjC1mQ"><img src="https://i.ibb.co/4YjC1mQ/Whats-App-Image-2020-09-03-at-21-01-23.jpg" alt="Whats-App-Image-2020-09-03-at-21-01-23" border="0" height = "50%" width = "50%"></a>
 <h2 align="center">I'm a full stack developer and a content writer.</h2>
 <br>
 ✍  Apart from technology , I also love writing
@@ -7,7 +7,7 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ami1708" alt="ami1708" /> </p>
-<img align="right" height = "200px" width = "200px" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align="right"  alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 
 
@@ -32,7 +32,9 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
 <br>
 <p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"  width="40" height="40"/>
  <img src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python"  width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40"/>
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C"  width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40"/>
  <img src = "https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs"  width="40" height="40"/>
   
  
