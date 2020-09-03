@@ -33,7 +33,7 @@ You can find my articles on my website at on (https://medium.com/@amisha.negi)
  <img src = "https://www.flaticon.com/free-icon/nodejs_919825" alt="nodejs"  width="40" height="40"/>
   
  
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/ alt="mongodb" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass"  width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
