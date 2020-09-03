@@ -1,7 +1,9 @@
 <h1 align="center">Hey Folks! 👋, I'm Amisha Negi</h1>
 <img src = "https://drive.google.com/file/d/1k4LQoIJYvrxUKrbY0mjLHRRot00wxUFd/view?usp=sharing">
 <h2 align="center">I'm a full stack developer and a content writer.</h2>
-😄 Apart from coding, I also love writing - you can find my articles on my website at on [Medium](https://medium.com/@amisha.negi)
+<br>
+✍  Apart from technology , I also love writing
+You can find my articles on my website at on (https://medium.com/@amisha.negi)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ami1708" alt="ami1708" /> </p>
