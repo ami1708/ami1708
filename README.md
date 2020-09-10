@@ -4,7 +4,7 @@
 
 <br>
 ✍  Apart from technology , I also love writing
-You can find my articles on my website at on (https://medium.com/@amisha.negi)
+You can find my articles on my website at on https://medium.com/@amisha17200
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ami1708" alt="ami1708" /> </p>
