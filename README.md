@@ -1,3 +1,5 @@
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+
 <h1 align="center">Hey Folks! 👋, I'm Amisha Negi</h1>
 <h2 align="center">I'm a full stack developer and a content writer.</h2>
 
