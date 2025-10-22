@@ -1,12 +1,7 @@
 ![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
 
 <h1 align="center">Hey Folks! 👋, I'm Amisha Negi</h1>
-<h2 align="center">I'm a full stack developer and a content writer.</h2>
 
-
-<br>
-✍  Apart from technology , I also love writing
-You can find my articles on my website at on https://medium.com/@amisha17200
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ami1708" alt="ami1708" /> </p>
@@ -16,13 +11,14 @@ You can find my articles on my website at on https://medium.com/@amisha17200
 
 <p align="left">
 
-- 🔭 I’m currently working on : **Something cool**
+- 🔭 I’m currently working as a SDE-2 : **Instahyre**
 
 - 🌱 I’m currently learning :**Backend development**
 
 - 📫 How to reach me :**Please refer to the links given below**
 
 - ⚡ Fun fact: I ❤️🐶s and new fashion Trends!
+- https://medium.com/@amisha17200
 
 
 <img align="left" height = "200px" width = "200px" alt="GIF" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
